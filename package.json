@@ -1,0 +1,19 @@
+{
+  "name": "thorin-plugin-protobuf",
+  "author": "UNLOQ Systems",
+  "version": "1.0.0",
+  "dependencies": {
+    "protobufjs": "6.9.0"
+  },
+  "description": "Thorin.js protobuf wrapper",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thorinjs/Thorin-plugin-protobuf"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Thorinjs/Thorin-plugin-protobuf/issues"
+  }
+}
