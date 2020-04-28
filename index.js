@@ -4,7 +4,7 @@ module.exports = function (thorin, opt, pluginName) {
   const defaultOpt = {
     logger: pluginName || 'protobuf',
     debug: false,
-    path: 'app/models',
+    path: ['app/models'],
     options: {} // additional protobuf options for https://protobufjs.github.io/protobuf.js/Root.html
   };
   opt = thorin.util.extend(defaultOpt, opt);
