@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-protobuf",
   "author": "UNLOQ Systems",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "protobufjs": "6.9.0"
   },
