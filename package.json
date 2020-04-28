@@ -1,9 +1,18 @@
 {
   "name": "thorin-plugin-protobuf",
   "author": "UNLOQ Systems",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "dependencies": {
-    "protobufjs": "6.9.0"
+    "chalk": "4.0.0",
+    "escodegen": "1.13.0",
+    "espree": "6.1.2",
+    "estraverse": "5.1.0",
+    "glob": "7.1.6",
+    "jsdoc": "3.6.3",
+    "minimist": "1.2.5",
+    "protobufjs": "6.9.0",
+    "semver": "7.1.2",
+    "tmp": "0.1.0"
   },
   "description": "Thorin.js protobuf wrapper",
   "main": "index.js",
