@@ -8,9 +8,9 @@
     "espree": "6.1.2",
     "estraverse": "5.1.0",
     "glob": "7.1.6",
-    "jsdoc": "3.6.3",
+    "jsdoc": "3.6.6",
     "minimist": "1.2.5",
-    "protobufjs": "6.9.0",
+    "protobufjs": "6.10.1",
     "semver": "7.1.2",
     "tmp": "0.1.0",
     "uglify-js": "3.7.7"
