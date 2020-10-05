@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-protobuf",
   "author": "UNLOQ Systems",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "dependencies": {
     "chalk": "4.0.0",
     "escodegen": "1.13.0",
