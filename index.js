@@ -5,6 +5,7 @@ module.exports = function (thorin, opt, pluginName) {
     logger: pluginName || 'protobuf',
     debug: false,
     path: ['app/models'],
+    extend: [],  // an array of folder paths to require, and extend the constructor functionality
     ids: 'auto',  // do we generate the ids automatically? or based on the file name. Values are "auto" or "file"
                   // Note: when ids="file", the filename must have {id}-{name}.proto
     options: {} // additional protobuf options for https://protobufjs.github.io/protobuf.js/Root.html
