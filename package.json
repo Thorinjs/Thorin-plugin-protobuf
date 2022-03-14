@@ -1,14 +1,14 @@
 {
   "name": "thorin-plugin-protobuf",
   "author": "UNLOQ Systems",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "dependencies": {
     "chalk": "4.0.0",
     "escodegen": "1.13.0",
     "espree": "6.1.2",
     "estraverse": "5.1.0",
     "glob": "7.1.6",
-    "jsdoc": "3.6.7",
+    "jsdoc": "3.6.10",
     "minimist": "1.2.5",
     "protobufjs": "6.11.2",
     "semver": "7.1.2",
