@@ -9,7 +9,7 @@
     "estraverse": "5.1.0",
     "glob": "7.1.6",
     "jsdoc": "3.6.10",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "protobufjs": "6.11.2",
     "semver": "7.1.2",
     "tmp": "0.1.0",
