@@ -11,7 +11,7 @@
     "jsdoc": "3.6.10",
     "minimist": "1.2.5",
     "protobufjs": "6.11.2",
-    "semver": "7.1.2",
+    "semver": "7.5.2",
     "tmp": "0.1.0",
     "uglify-js": "3.7.7"
   },
